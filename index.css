@@ -12,8 +12,8 @@ header{
 }
 
 .img img{
-    height: 200px;
-    width: 170px;
+    
+    max-width: 170px;
    position: relative;
    float: right;
    margin: 10px;
