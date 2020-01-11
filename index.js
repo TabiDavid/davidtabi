@@ -1,6 +1,6 @@
 function getUpdate(){
   
-    var d = new Date;
+    var d = document.lastModified;
 
     document.getElementById("outputDiv").innerHTML = "Last Update: " + d;
 }
