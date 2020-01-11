@@ -1,6 +1,6 @@
 .Container1{
     margin: 0 auto;
-    max-width: 900px;
+    max-width: 700px;
 }
 header{
     background-color: rgb(197, 66, 143);
@@ -17,6 +17,7 @@ header{
    border-radius: 10px;
    float: right;
    
+
    box-shadow: 1px 1px 1px black;
 
 }
@@ -31,6 +32,6 @@ footer{
     background-color: rgb(197, 66, 143);
    text-align: center;
     border-radius: 10px;
-    padding: .75em 1.2em .75em 5em;
+    padding: .25em .5em .25em .5em;
 }
 
