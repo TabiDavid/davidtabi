@@ -32,6 +32,12 @@ footer{
     background-color: rgb(197, 66, 143);
    text-align: center;
     border-radius: 10px;
-    padding: .25em .5em .25em .5em;
+    padding: .25em .5em .25em .25em;
+    line-height: 3px;
+    height: 55px;
 }
 
+#outputDiv{
+ 
+    font-size: 11px;
+}
