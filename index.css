@@ -14,16 +14,15 @@ header{
 .img{
     
    max-width: 170px;
+   height: 200px;
    border-radius: 10px;
    float: right;
-   
-
-   box-shadow: 1px 1px 1px black;
+   box-shadow: 1px 1px 1px 1px grey;
 
 }
 
 h2{
-    padding-top: 30px;
+    padding-top: 10px;
     
 
 }
