@@ -4,3 +4,4 @@ function getUpdate(){
 
     document.getElementById("outputDiv").innerHTML = "Last Update: " + d;
 }
+
