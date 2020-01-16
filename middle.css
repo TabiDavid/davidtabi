@@ -7,5 +7,14 @@ font-size: 2.5rem;
         font-size: 1rem;
 
     }
+    .img{
+    
+        border-radius: 10px;
+        float: right;
+        box-shadow: 1px 1px 1px 1px grey;
+    }
 
+    header, footer {
+        border-radius: 10px;
+    }
 }
